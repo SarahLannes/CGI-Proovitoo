@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+p{/*teksti stiil*/
+    font:1em sans-serif;
+    font-weight: bold;
+}
+body{/*taust*/
+    background-color: cadetblue; 
+}
+
+div{/*Teksti joondus*/
+    text-align: center;
+}
+.map{/*Kaart*/
+    margin-left: 30%;
+    height: 40%;
+    width: 40%;
+}
+.tulemused{/*Esimese etapi tulemuste kuvamine*/
+    margin-top: 50px;
+}
+
+
+
+
+
